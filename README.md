@@ -4,8 +4,7 @@
 # Functions
 
 ### Assignment:
-- Update primes-in-range.c following assignment description provided in LabAssignment_Week5.pdf (uploaded on Laulima) - graded
-- Create new c files for other practise problems for your reference - not graded
+- Update average.c and 3d-array.c following assignment description provided in LabAssignment_Week7.pdf (uploaded on Laulima) - graded
 
 **NOTE**: Github is not a place to test your code. Test it on your machines first. Autograding will be disabled if you exceed 10 commits. We will start out by sending emails to you personally if you exceed 10 commits, and eventually penalizing your grade.
 
