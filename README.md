@@ -1,5 +1,5 @@
 # ICS 212
-## Lab - Week 6
+## Lab - Week 7
 
 # Functions
 
