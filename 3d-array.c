@@ -6,5 +6,7 @@ NOTE:
 3. Use a 3 dimensional array for your inputs
 2. Display output as:
     Value at [<i>][<j>][<k>] is: <value>
-*/
 
+Example output:
+Value at [0][2][0] is: 8
+*/
